@@ -98,4 +98,15 @@
         <item>@null</item>
     </array>
 
+    <string-array name="preferred_network_mode_choices_lte_gsm">
+        <item>LTE/WCDMA</item>
+        <item>LTE/GSM/WCDMA</item>
+        <item>GSM/WCDMA preferred</item>
+    </string-array>
+    <string-array name="preferred_network_mode_values_lte_gsm" translatable="false">
+        <item>"12"</item>
+        <item>"9"</item>
+        <item>"0"</item>
+    </string-array>
+
 </resources>
